@@ -384,7 +384,8 @@ function idk() {
 
 function compPokemon() { // continue
   if (playerMove == 1 && opHP != 0) { // whos move
-
+	document.getElementById('actionButton').style.visibility = "visible";
+	document.getElementById('continue').style.visibility = "hidden";
     evoCheck();
 
     var move = Math.floor((Math.random() * 3) + 1); // choose move randomly
@@ -400,8 +401,7 @@ function compPokemon() { // continue
 
   }
 
-  document.getElementById('actionButton').style.visibility = "visible";
-  document.getElementById('continue').style.visibility = "hidden";
+  
 }
 
 function sleep(ms) {
