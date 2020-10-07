@@ -1,10 +1,10 @@
 # Basic Online Pokemon Game
 
- > Original by ByteCampio at https://github.com/bytecampio/pokemon
+ - Original by ByteCampio at https://github.com/bytecampio/pokemon
  
- > Readme written with [StackEdit](https://stackedit.io/).
+ - Readme written with [StackEdit](https://stackedit.io/).
  
- > Changes made by thenerdoflight of jadestudios.uk
+ - Changes made by thenerdoflight of jadestudios.uk
 
 **Navigating the folders**
 
