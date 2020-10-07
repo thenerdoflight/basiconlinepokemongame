@@ -387,7 +387,7 @@ function compPokemon() { // continue
 
     evoCheck();
 
-    var move = Math.floor((Math.random() * 4) + 1); // choose move randomly
+    var move = Math.floor((Math.random() * 3) + 1); // choose move randomly
 
     if (evo == 1) {
       opAttacksEvo[move](); // call attack from array
