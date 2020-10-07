@@ -12,6 +12,7 @@
 
 This means that the pokemon.html in the str_poke can be ran. However, ***this version is optimized for w=789 and h=762.***
 
+![Image of Game](https://github.com/thenerdoflight/basiconlinepokemongame/blob/main/Screenshot_2020-10-06%20Pokemon%20on%20Web.jpg?raw=true)
 
 **Major changes compared to the original**
 
